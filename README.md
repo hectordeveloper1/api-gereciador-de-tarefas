@@ -24,7 +24,7 @@ Siga estas etapas para configurar e executar o projeto em sua máquina local.
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/api-gerenciamento-tarefas.git
+git clone https://github.com/hectordeveloper1/api-gereciador-de-tarefas
 cd api-gerenciamento-tarefas
 ```
 
